@@ -16,7 +16,7 @@ def collectFiles(path, tmpdest, extention='csv'):
          shutil.copy(eachMatchedItem,tmpdest)
 
 
-def CvstoSqlite(csvloc, dbloc):
+def CsvtoSqlite(csvloc, dbloc):
     cvsfileList = os.listdir(csvloc)
 
     conn = sqlite3.connect(dbloc)
