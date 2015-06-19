@@ -1,7 +1,6 @@
 #Generate test csv files
 import random
 import os
-import string
 from faker import Factory
 
 
