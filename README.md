@@ -3,7 +3,7 @@ the data into a sqlite database.
 
 TODO:
 
-1. Add support record deduplication.
+1. Add support for record de-duplication management.
 2. Add support to import to a series of popular database [MSSQL, MYSQL, Oracle, PostgreSQL, DB2, Firebase, Mongodb ].
 
 
