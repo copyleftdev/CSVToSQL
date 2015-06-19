@@ -34,7 +34,7 @@ def CvstoSqlite(csvloc, dbloc):
 
 def main():
     collectFiles("data/","temp/")
-    CvstoSqlite("temp/","db/performancedb.db")
+    #CvstoSqlite("temp/","db/performancedb.db")
 
 
 
